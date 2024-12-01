@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e56b97d5.css",
+    "main.js": "/static/js/main.3df22ad7.js",
+    "static/js/453.868758cb.chunk.js": "/static/js/453.868758cb.chunk.js",
+    "static/media/backLine.png": "/static/media/backLine.be57b9972824e921a8f7.png",
+    "static/media/banner1.png": "/static/media/banner1.a0c46467bf394b10bc24.png",
+    "static/media/b1.png": "/static/media/b1.07892b84396dcab8965b.png",
+    "static/media/16358535.png": "/static/media/16358535.6b7094c713093a90b657.png",
+    "static/media/19199574_nobac.png": "/static/media/19199574_nobac.a0bf4f012d3481675830.png",
+    "static/media/5050677.png": "/static/media/5050677.837fe1d4d506936347b0.png",
+    "static/media/ecom.jpg": "/static/media/ecom.3c5ea7f096272845e34f.jpg",
+    "static/media/7053246.jpg": "/static/media/7053246.9484bf9dbf3558db38f0.jpg",
+    "static/media/515319-PIRK7R-406.jpg": "/static/media/515319-PIRK7R-406.ec76f216c66a3a49df81.jpg",
+    "static/media/10966.jpg": "/static/media/10966.532f757394e10d7e1335.jpg",
+    "static/media/21429.jpg": "/static/media/21429.6bcb308071dead178cf5.jpg",
+    "static/media/doc.jpg": "/static/media/doc.0a90fa240eb9112c8e87.jpg",
+    "static/media/1auth-logo-withoutxt.png": "/static/media/1auth-logo-withoutxt.62a8baa131fee0fc532e.png",
+    "static/media/authtxt.png": "/static/media/authtxt.8345e77bc5ef6bba44a7.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.e56b97d5.css.map": "/static/css/main.e56b97d5.css.map",
+    "main.3df22ad7.js.map": "/static/js/main.3df22ad7.js.map",
+    "453.868758cb.chunk.js.map": "/static/js/453.868758cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e56b97d5.css",
+    "static/js/main.3df22ad7.js"
+  ]
+}
